@@ -1,1 +1,1 @@
-# CPU-implementation-in-Haskell
+# CPU implementation in Haskell
